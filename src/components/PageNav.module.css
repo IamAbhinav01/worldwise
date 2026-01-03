@@ -1,7 +1,8 @@
 .nav {
+  background-color: orangered;
+}
+.nav ul {
+  list-style: none;
   display: flex;
   justify-content: space-between;
-}
-ul {
-  list-style: none;
 }
