@@ -3,7 +3,7 @@ import AppNav from '../components/AppNav';
 function AppLayout() {
   return (
     <div>
-      <AppNav />
+      {/* <AppNav /> */}
       <p>Welcome to the App Layout page.</p>
     </div>
   );
