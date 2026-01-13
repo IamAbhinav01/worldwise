@@ -18,7 +18,7 @@ function CityList({ cities, isLoading }) {
     </ul>
   );
 }
-// hi
+
 CityList.propTypes = {
   cities: PropTypes.array.isRequired,
   isLoading: PropTypes.bool.isRequired,
